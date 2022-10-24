@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to sohee's github !  👋
 
 <!--
 **sohee0/sohee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
